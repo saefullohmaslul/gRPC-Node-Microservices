@@ -1,0 +1,6 @@
+[submodule "service-utility"]
+	path = service-utility
+	url = https://github.com/saefullohmaslul/gRPC-Node-Utility.git
+[submodule "service-user"]
+	path = service-user
+	url = https://github.com/saefullohmaslul/gRPC-Node-User.git
